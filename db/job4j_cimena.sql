@@ -1,5 +1,4 @@
 create database job4j_cinema;
-drop database job4j_cinema;
 
 CREATE TABLE account(
     id       SERIAL PRIMARY KEY,
@@ -13,6 +12,3 @@ CREATE TABLE ticket(
     cell       INT NOT NULL,
     account_id INT REFERENCES account (id),
     constraint uniqueTicket unique (row, cell));
-
-drop table account;
-drop table ticket;
