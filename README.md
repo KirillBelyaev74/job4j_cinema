@@ -4,6 +4,13 @@
 ## Проект курса [job4j](http://job4j.ru)
 
 ### Кинотеатр
+Каждые 30 секунд главная страница обновляеться.
+Технологии:
+- PostgresSQL
+- JS / Jquery
+- Apache Tomcat
+- Log4j
+- Singleton (On Demand Holder Idom)
 
 Зал в кинотеатре
 ![screenshot of sample](screenshot/1.png)
@@ -22,11 +29,3 @@
 
 ![screenshot of sample](screenshot/6.png)
 ![screenshot of sample](screenshot/7.png)
-
-Каждые 30 секунд главная страница обновляеться.
-Технологии:
-- PostgresSQL
-- JS / Jquery
-- Apache Tomcat
-- Log4j
-- Singleton (On Demand Holder Idom)
