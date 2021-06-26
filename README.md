@@ -7,8 +7,9 @@
 Каждые 30 секунд главная страница обновляется.
 Технологии:
 - PostgresSQL
-- JS / Jquery
 - Apache Tomcat
+- JS / Jquery
+- Ajax
 - Log4j
 - Singleton (On Demand Holder Idom)
 
