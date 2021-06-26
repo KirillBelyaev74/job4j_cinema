@@ -7,6 +7,7 @@
 Каждые 30 секунд главная страница обновляется.
 Технологии:
 - PostgresSQL
+- JDBC
 - Apache Tomcat
 - JS / Jquery
 - Ajax
