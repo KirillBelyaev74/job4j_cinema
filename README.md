@@ -7,6 +7,7 @@
 Каждые 30 секунд главная страница обновляется.
 Технологии:
 - PostgresSQL
+- Servlet
 - JDBC
 - Apache Tomcat
 - JS / Jquery
@@ -23,11 +24,5 @@
 Оплата билетов
 ![screenshot of sample](screenshot/3.png)
 
-Подтверждение покупки билетов
-![screenshot of sample](screenshot/4.png)
-
 Места купленны
 ![screenshot of sample](screenshot/5.png)
-
-![screenshot of sample](screenshot/6.png)
-![screenshot of sample](screenshot/7.png)
